@@ -34,12 +34,14 @@ Random thoughts on an RTS inspired by Starcraft.
 - Com-Sat
 - Artillery Round
 - Transport
+- Constructor
 
 ### Structures
-- Factory Units
+- Factory Parts
+- Refinery
 - Launchpad
 - Power Extender
-- Laser Wall Tower
+- Laser Wall Towers
 
 
 ## Bugs
@@ -47,19 +49,23 @@ Random thoughts on an RTS inspired by Starcraft.
 - Lower Units Need to be near Commander to be controlled
 - Eat minerals to grow/live
 - Some units need gas
+- Bigger units can consume smaller ones
 
 ### Forms
 - Rolly: rolls down cliffs
 - Ptero: can perch, glide, slow movement
 - Wasp: small, agile flyer
-- Burrower: can burrow
+- Burrower: can burrowl 
 - Dweller: blind, good sense of smell
+
 
 ### Features
 - Claws
 - Acid Spray
 - Breath
-- Rolling Spikes
+- Death Stream
+- Deadly Droppings
+- Rolling Spikes: requires momentum
 
 
 ### Structures
@@ -74,6 +80,9 @@ Random thoughts on an RTS inspired by Starcraft.
 - Magnetizer: creates pull
 - Spacelord: bend space
 - Timelord: Slow time within region
+- Ground Pounder: Sends powerful shockwave on ground
+- Trapper
 
 ### Structures
 - Nexus: energy balls move around
+- Tower: more energy balls, transmit energy balls
