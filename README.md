@@ -25,17 +25,20 @@ Random thoughts on an RTS inspired by Starcraft.
 - Base jumper: Jump off cliffs.
 
 ### Weapons
-- Rifle
-- Flamethrower
-- Heatseeker
-- Grenade Launcher
-- Laser
-- Lob
-- Mine
-- Bomb
-- Artillery Round
+- Rifle: LOS
+- Flamethrower: area
+- Heatseeker: homing
+- Grenade Launcher: arc
+- Laser: LOS
+- Lob: arc
+- Mine: static
+- Bomb: drop
+- Artillery Round: arc, slow
+
+### Support
 - Com-Sat
 - Transport
+- Fuel
 - Constructor
 
 ### Structures
@@ -43,6 +46,7 @@ Random thoughts on an RTS inspired by Starcraft.
 - Refinery
 - Launchpad
 - Power Extender
+- Defensive Tower: Far range but can't attack when too close
 - Laser Wall Towers
 
 
@@ -51,7 +55,7 @@ Random thoughts on an RTS inspired by Starcraft.
 - Lower Units Need to be near Commander to be controlled
 - Eat minerals to grow/live
 - Some units need gas
-- Bigger units can consume smaller ones
+- Bigger units can consume smaller ones (food chain as "tech tree"?)
 
 ### Forms
 - Rolly: rolls down cliffs
@@ -60,26 +64,33 @@ Random thoughts on an RTS inspired by Starcraft.
 - Burrower: can burrow
 - Dweller: blind, good sense of smell
 - Crawler: climb cliffs
+- Carapace: defensive
+- Chameleon: cloaked when still
 
-### Features
-- Claws
-- Acid Spray
-- Breath
-- Toxic Stream
-- Deadly Droppings
-- Bees!
-- Grabbing Tentacles
-- Ramming Horn: Requires momentum
-- Tongue
-- 
-
+### Weapons
+- Claws: melee
+- Acid Spray: spread, linger
+- Breath: area, linger
+- Toxic Stream: arc, linger
+- Deadly Droppings: drop, static, linger (various types)
+- Bees! homing
+- Grabbing Tentacles: short range, navigable, grab unit
+- Ramming Horn: momentum
+- Tongue: LOS, bring to unit
+- Shocker: short range, area
 - Spikes: mostly defensive, requires momentum
 
+### Support
+- Commander
+- Egg layer
 
 ### Structures
 - Nest: flyers can perch
 - Web
-- 
+- Fly Trap
+- Den
+- Hive: food source?
+
 
 ## Bulbs
 - Manipulate space and time
@@ -92,7 +103,8 @@ Random thoughts on an RTS inspired by Starcraft.
 - Ground Pounder: Sends powerful shockwave on ground
 - Levitator
 - Trapper
+- Orb Lord: can use orbs
 
 ### Structures
-- Nexus: energy balls move around
-- Tower: more energy balls, transmit energy balls
+- Nexus: energy orbs move around
+- Tower: more energy orbs, transmit energy orbs
