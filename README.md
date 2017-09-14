@@ -7,7 +7,6 @@ Random thoughts on an RTS inspired by Starcraft.
 - Line-of-sight vision: can’t see behind objects
 - Can’t see units too close to cliffs
 - Minerals and gas
-- 
 
 ## Borgs
 - Certain units require certain factory configurations
@@ -58,7 +57,6 @@ Random thoughts on an RTS inspired by Starcraft.
 - Bigger units can consume smaller ones (food chain as "tech tree"?)
 
 ### Forms
-- Rolly: rolls down cliffs
 - Ptero: can perch, glide, slow movement
 - Wasp: small, agile flyer
 - Burrower: can burrow
@@ -78,7 +76,7 @@ Random thoughts on an RTS inspired by Starcraft.
 - Ramming Horn: momentum
 - Tongue: LOS, bring to unit
 - Shocker: short range, area
-- Spikes: mostly defensive, requires momentum
+- Spikes: mostly defensive, requires momentum for charge attack
 
 ### Support
 - Commander
@@ -104,6 +102,7 @@ Random thoughts on an RTS inspired by Starcraft.
 - Levitator
 - Trapper
 - Orb Lord: can use orbs
+- Former: makes temporary bridges, walls
 
 ### Structures
 - Nexus: energy orbs move around
