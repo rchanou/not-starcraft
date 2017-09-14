@@ -31,8 +31,10 @@ Random thoughts on an RTS inspired by Starcraft.
 - Grenade Launcher
 - Laser
 - Lob
-- Com-Sat
+- Mine
+- Bomb
 - Artillery Round
+- Com-Sat
 - Transport
 - Constructor
 
@@ -55,22 +57,29 @@ Random thoughts on an RTS inspired by Starcraft.
 - Rolly: rolls down cliffs
 - Ptero: can perch, glide, slow movement
 - Wasp: small, agile flyer
-- Burrower: can burrowl 
+- Burrower: can burrow
 - Dweller: blind, good sense of smell
-
+- Crawler: climb cliffs
 
 ### Features
 - Claws
 - Acid Spray
 - Breath
-- Death Stream
+- Toxic Stream
 - Deadly Droppings
-- Rolling Spikes: requires momentum
+- Bees!
+- Grabbing Tentacles
+- Ramming Horn: Requires momentum
+- Tongue
+- 
+
+- Spikes: mostly defensive, requires momentum
 
 
 ### Structures
 - Nest: flyers can perch
-
+- Web
+- 
 
 ## Bulbs
 - Manipulate space and time
@@ -81,6 +90,7 @@ Random thoughts on an RTS inspired by Starcraft.
 - Spacelord: bend space
 - Timelord: Slow time within region
 - Ground Pounder: Sends powerful shockwave on ground
+- Levitator
 - Trapper
 
 ### Structures
