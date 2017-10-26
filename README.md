@@ -32,7 +32,7 @@ Random thoughts on an RTS inspired by Starcraft.
 - Lob: arc
 - Mine: static
 - Bomb: drop
-- Artillery Round: arc, slow
+- Artillery Round: arc, slow  
 
 ### Support
 - Com-Sat
